@@ -4,7 +4,7 @@
 
 <ul>
 <br>
-<li>🖥️ I am currently working on different projects <i><strong>(Game server, VM Hosting, Website)</strong></i>. 🖥️</li>
+<li>🖥️ I am currently working on different projects with my brother <a href="https://github.com/SoraInDev">SoraInDev</a> <i><strong>(Game server, VM Hosting, Website)</strong></i>. 🖥️</li>
 <br>
  
 </ul>
