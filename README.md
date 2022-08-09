@@ -12,6 +12,9 @@
 <p><b>🖥️ Dedicated Server 🖥️</b><br>
 <img src="https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D">
 
+<p><b>WebSite</b><br>
+<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+
 <p><b>🤖 Programming Languages 🤖</b><br>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -39,12 +42,6 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">
-
-<p><b>🤖 Terminal 🤖</b><br>
-<img src="https://img.shields.io/badge/iTerm2-%23121011.svg?style=for-the-badge&logo=iTerm2&logoColor=white">
-
-<p><b>WebSite</b><br>
-<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 
 <p><b>✨ And My Social Media ✨</b><br>
 <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
